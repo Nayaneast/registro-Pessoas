@@ -10,3 +10,5 @@ Para executar o projeto é necessário:
 - JDK8
 - MySQL
 - Postman
+
+**No application properties necessário configurar Usuário e Senha para criar o banco de dados.
